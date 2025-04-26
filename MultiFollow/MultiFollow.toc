@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: MultiFollow
+## Version: 1
+## Author: Created by: Bane & Killer from [V3X] community: discord.gg/XEU75MR, name given by: vB1OS
+## Notes: follow, mount and follow, stop, stop and dismount
+
+MultiFollow.lua
