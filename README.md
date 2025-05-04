@@ -10,6 +10,6 @@
 - Example:  C:\GAMES\World of Warcraft\World of Warcraft 3.3.5a\Interface\Addons\MultiFollow (allfileshere)
 
 ## Contact Info
-- Bane or Killer
+- Bane
 - [V3X] Gaming Community
 - https://discord.com/invite/XEU75MR 
