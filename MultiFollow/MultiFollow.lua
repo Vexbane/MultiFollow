@@ -1,5 +1,10 @@
 --[[ 
-  ## Author: Bane from [V3X] Gaming discord.gg/XEU75MR | Credits: to Killer for assisting + name of addon: vB1OS (see "readme.txt" for more info)
+## Interface: 30300
+## Title: MultiFollow
+## Version: 1.2
+## Author: Bane from [V3X] Gaming discord.gg/XEU75MR | Credits to: Killer for assisting /w some code + name of addon: vB1OS
+## Notes: Party, Raid group will follow, mount, stop follow with mf, mount, mfstop in chat. Type: /mf (for options)
+## Readme.txt = Includes detaills for all features
 ]]
 
 local MultiFollowFrame = CreateFrame("Frame")
